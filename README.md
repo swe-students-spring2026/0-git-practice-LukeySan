@@ -6,4 +6,6 @@ This article was about a person’s experience learning system design. The autho
 
 # Comment About the Article
 
-I liked that the article mentioned how diagrams can give the illusion of understanding. I think this challege is relevant to many concepts in computer science, and as the author mentioned, I feel I have had to learn the hard way that passive learning and tutorials don't work. Slow learning is something this author emphasizes and I agree that it is sometimes the only way. 
+I liked that the article mentioned how diagrams can give the illusion of understanding. I think this challege is relevant to many concepts in computer science, and as the author mentioned, I feel I have had to learn the hard way that passive learning and tutorials don't work. Slow learning is something this author emphasizes and I agree that it is sometimes the only way.  
+
+By Bella D'Aquino
